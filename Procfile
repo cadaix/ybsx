@@ -1,0 +1,1 @@
+web: gunicorn ybsstudy-wsgi --log-file -
